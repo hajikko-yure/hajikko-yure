@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm hajikko-yure.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+profile!;Coding+Wizard+%7C+Python+%7C+JavaScript;Always+Learning+New+Things!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+profile!;Coding+Python)
 
 ### 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
